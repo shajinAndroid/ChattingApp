@@ -2,8 +2,11 @@
 
 #Environment  Setup
 Angular - https://angular.io/guide/setup-local
+
 .NET Core - https://dotnet.microsoft.com/download/dotnet-core
+
 Node Js - https://nodejs.org/ (LTS - Long Time Support)
+
 Visual Studio Code - https://code.visualstudio.com/
 
 #Running an Angular App
